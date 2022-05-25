@@ -1,3 +1,4 @@
 pwd is used to list absolute file paths
 ls is used to list file in a directory
-/home command take us bacj=k to home
+$HOME is used to get the path home and root is the paTH /ROOT command take us bacj=k to home
+ls -la list files in long format
