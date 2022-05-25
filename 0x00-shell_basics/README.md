@@ -4,3 +4,4 @@ $HOME is used to get the path home and root is the paTH /ROOT command take us ba
 ls -l list files in long format
 ls -la list more files in long format
 ls -an list digit values of file in long format
+mkdir /root/tmp/my firt directory is the command touse
