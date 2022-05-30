@@ -1,2 +1,6 @@
 Write a script that prints “Hello, World”, followed by a new line to the standard output.
-		echo>> Hello , Wolrd
+		echo "Hello , Wolrd"
+Write a script that displays a confused smiley "(Ôo)'.
+  		echo "\"(Ôo)'"
+Display the content of the /etc/passwd file.
+	cat /ect/passwd
