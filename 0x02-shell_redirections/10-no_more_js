@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -names "*.ls " -type f -delete 
+find . -name "*.ls " -type f -delete 
